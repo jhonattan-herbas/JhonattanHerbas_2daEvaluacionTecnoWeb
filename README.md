@@ -1,6 +1,12 @@
-# vue_project
+# star wars planetas 
 
-This template should help get you started developing with Vue 3 in Vite.
+Un proyecto que muestra información detallada sobre los planetas del universo de Star Wars, utilizando datos de la API pública SWAPI.
+Tecnologías utilizadas
+Frontend: React.js
+
+API: SWAPI (https://swapi.dev/)
+
+Estilos: CSS moderno con Flexbox/Grid
 
 ## Recommended IDE Setup
 
